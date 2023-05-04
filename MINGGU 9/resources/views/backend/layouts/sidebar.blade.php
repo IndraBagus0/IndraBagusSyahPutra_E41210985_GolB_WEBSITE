@@ -118,7 +118,8 @@
 
                     <li class="message-item">
                         <a href="#">
-                            <img src="{{ asset('backend/assets/img/messages-1.jpg') }}" alt="" class="rounded-circle">
+                            <img src="{{ asset('backend/assets/img/messages-1.jpg') }}" alt=""
+                                class="rounded-circle">
                             <div>
                                 <h4>Maria Hudson</h4>
                                 <p>Velit asperiores et ducimus soluta repudiandae labore officia est ut...</p>
@@ -132,7 +133,8 @@
 
                     <li class="message-item">
                         <a href="#">
-                            <img src="{{ asset('backend/assets/img/messages-2.jpg') }}" alt="" class="rounded-circle">
+                            <img src="{{ asset('backend/assets/img/messages-2.jpg') }}" alt=""
+                                class="rounded-circle">
                             <div>
                                 <h4>Anna Nelson</h4>
                                 <p>Velit asperiores et ducimus soluta repudiandae labore officia est ut...</p>
@@ -146,7 +148,8 @@
 
                     <li class="message-item">
                         <a href="#">
-                            <img src="{{ asset('backend/assets/img/messages-3.jpg') }}" alt="" class="rounded-circle">
+                            <img src="{{ asset('backend/assets/img/messages-3.jpg') }}" alt=""
+                                class="rounded-circle">
                             <div>
                                 <h4>David Muldon</h4>
                                 <p>Velit asperiores et ducimus soluta repudiandae labore officia est ut...</p>
@@ -170,12 +173,12 @@
 
                 <a class="nav-link nav-profile d-flex align-items-center pe-0" href="#" data-bs-toggle="dropdown">
                     <img src="{{ asset('backend/assets/img/profile-img.jpg') }}" alt="Profile" class="rounded-circle">
-                    <span class="d-none d-md-block dropdown-toggle ps-2">Fillah S.</span>
+                    <span class="d-none d-md-block dropdown-toggle ps-2">Indra bagus</span>
                 </a><!-- End Profile Iamge Icon -->
 
                 <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
                     <li class="dropdown-header">
-                        <h6>Fillah Septian</h6>
+                        <h6>Indra Bagus</h6>
                         <span>Web Designer</span>
                     </li>
                     <li>
