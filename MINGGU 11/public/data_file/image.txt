@@ -1,0 +1,18 @@
+public function create()
+
+i
+‘Spengalaman kerja = null;
+return view(*backend. pengalanan_ kerja. create’, compact(*pengalanan_kerja'));
+3
+public function store(Request Srequest)
+i
+
+_masuk’ => Srequest->tahun_sasuk,
+“tahun_keluar® => Srequest->tahun_keluar
+ni
+
+return redirect()->route(’pengalanan_kerja. index’)
+
+“>ulth("success", ‘Data pengalanan_kerja baru telah berhasil disimpan.
+
+2%
